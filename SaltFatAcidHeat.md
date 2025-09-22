@@ -1,6 +1,6 @@
 # Salt, Fat, Acid, Head
 ## Mastering the Elements of Good Cooking
-Author: Amin Nosrat
+Author: Amin Nosrat\
 Date read: Sep 2025
 
 # Chapter 1 - Salt
