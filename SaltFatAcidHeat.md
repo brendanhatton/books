@@ -126,3 +126,45 @@ Flaky doughs flake (eg pie pastry) and use cold butter. The cold butter and trap
 Tender cakes use oil, not butter!
 Gently beating butter together with sugar (4-7 minutes) will trap millions of air bubbles, making for super light an airy cake (don't accidentally squash the air out when later combining with other ingredients)
 
+# Chapter 3 - Acid
+"Acid brings the food to life"
+Grants the palate relief, and offers contrast.
+Eg, adding vinegar to soup doesn't make it taste like vinegar, but surfaces the flavours of the other ingredients.
+
+Common sources of acid:
+* vinegar
+* lemon & lime juice
+* wine
+* mustard / ketchup / salsa / chutney / hot sauce etc
+* fruit
+* chocolate
+* cultured dairy - yoghurt, cheese, sour cream etc
+* pickled / fermented vegetables
+* coffee & tea
+* tomatos
+* beer
+* honey
+
+Of the five basic tastes, acid make the mouth water the most - hence "mouthwatering".
+While salt threshold is absolute, acid is relative, needs to be balanced. eg adding sugar to lemonade makes it no less acidic, but at some point the acid is balanced and tastes good.
+Acid dulls green things, but keeps red and purple vibrant.
+Acid prevents oxidation (ie browning) of fresh fruit.
+Acid keeps vegetables and legumes tougher for longer. eg, carrots simmered in water much in minutes, but can simmer in whine for an hour and still be firm.
+The acid in tomatoes is why onion need to be softened first, or will remain hard no matter how long the dish is simmered.
+When cooking beans, chick peas or other legumes, add a pinch of bi carb to make the water base, ensuring they will cook and soften properly.
+Acid helps pectins to bond, such as making jelly. A few drops of lemon juice will help fruits like apple and blueberries set.
+Acid is needed to help bi-carb soda create the tiny air bubbles to leaven food.
+(Baking powder, on the other hand includes tartaric acid so can rise on its own).
+Acid keeps eggs sot and moist. A few drops of lemon juice in scrambled eggs, or vinegar in the water when poaching will help the egg whites firm up quickly and retain water.
+
+Acid tenderises meat in short term, but toughens over time. eg, sashimi > tartare > cevice over time.
+Acid helps to break down collagen (the main structural protein in tough meat). When braising / stewing, add the acid early to help break down the tough bits of meat.
+
+Browning / caramelising food creates acid.
+Caramlising refers to browning sugar, anything else (eg meat, vegetables, baked goods) is the Maillard rection.
+Fermentation also creates acid (slowly).
+
+The key to balancing acid is to taste, a lot!
+
+Always use fresh lemon juice, not bottled ones :( 
+
