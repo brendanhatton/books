@@ -168,3 +168,37 @@ The key to balancing acid is to taste, a lot!
 
 Always use fresh lemon juice, not bottled ones :( 
 
+# Chapter 4 - Heat
+The best cooks just tmperature by the food, not the heat source.
+The aim is to apply heat at the right level and rate so that the surface and interior of the food are done cooking at the same time.
+Food too densley packed will trap steam, preventing browning and crispiness. Need to leave space for steam to escape.
+The shape of the pot / pan also influences how easily the steam can escape.
+Extended, gentle heat renders fat - ie transforms it to liquid and clarifies it.
+Sugars can caramalise at high temperatures, creating new flavours.
+Salting meat hours in advance will keep it much more moist.
+Once meat is over 60 degress internal, it squeezes out all the water and becomes tough. Chicken doesn't do the same until 70 degrees.
+Sustained, low heat can change collagen (tough connective tissue) to gelatin.
+
+Browning, aka Maillard reaction creates lots of yum. It starts at ~110 degrees, so needs quick intense heat to be able to brown the surface without overcooking the ingredient. 
+Letting food come to room temp before cooking make it less likely to overcook, and shortens cooking time. Proteins also carryover, that is, continue cooking once removed from the heat source.
+Heat helps release flavour compounds, so food at fridge temp is less flavoursome than room temp.
+
+Key decision is whether to cook quickly over intense heat, or slowly over gradual heat. To decide, consider tenderness - we are either trying to preserve existing tenderness (therefore quick cooking) or create tenderness (therefore slow cooking).
+Ovens are not very accurate - look at the food instead and adjust.
+
+Braising summary:
+Brown the meat thoroughly
+Prepare some aromatics (onion, garlic, ginger, coriander).
+When browned, remove the fat and deglaze the pan (water, stock, wine or beer).
+Add vegetables and herbs, then meat, deglazing liquid, the water or stock to about halfway up the meat. Seal pan with lid, bring to boil then simmer. 
+Keep the liquid at a simmer. It's done once super tender or falls off the bone.
+Allow to cool, strain liquids, blend the solids to make sauce thicker.
+
+When blanching (aka boiling) veggies, use lots of water so the temperature doesn't drop when adding food. 
+
+Confit means to cook in fat at low temperatures so the food does not brown.
+
+Proteins will stick to a hot pan at first, but as they begin to brown will release.
+
+Cooking with air - aka grilling.
+Never cook directly over the flame, instead use coals and embers. 
